@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+h1{
+    color:white;
+    height: 90px;
+    line-height: 90px;
+    text-indent:20px;
+    background-color: gray;
+}
+
+
+#method,#power,#education,#project,#info{
+    height: 150px;
+    border-bottom:1px solid #eaeaea;
+    /* background-color: #aaaaaa */
+    
+}
+.weight{
+    display: inline-block;
+    font-weight: 700;
+    width: 100px;
+    height: 150px;
+    background-color: #aaaaaa;
+    line-height:150px;
+    text-align: center;
+}
+ #info p,#method p{
+    display: inline-block;
+    vertical-align:top;
+    margin-top: 20px;
+    margin-right: 30px;
+}
+
+#power p,#education p,#project p{
+    display: inline-block;
+    vertical-align:top;
+    margin-top:20px;
+}
+
+
+

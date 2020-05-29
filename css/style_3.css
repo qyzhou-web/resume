@@ -1,0 +1,17 @@
+.weight{
+    font-size: 25px;
+    font-weight: 700;
+    display: block;
+}
+strong{
+    margin-right:15px;
+}
+#info p,#method p{
+    display: inline-block;
+    margin-right: 50px;
+}
+
+#power strong,#project strong,#education strong{
+    display: block;
+    margin-top:20px;
+}

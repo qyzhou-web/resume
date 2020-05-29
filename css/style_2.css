@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#header{
+    height:900px;
+    width: 200px;
+   float: left;
+    background-color: skyblue;
+    text-align: center;
+    color: white;
+    /* margin-top: 50px; */
+    /* vertical-align:top; */
+}
+h1{
+    margin-top: 50px;
+}
+#page{
+ float: left;
+ margin-left: 40px;
+}
+
+.weight{
+    font-size: 25px;
+    font-weight: 700;
+    display: block;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+
+strong{
+    margin-right:15px;
+}
+#info p,#method p{
+    display: inline-block;
+    margin-right: 50px;
+    
+}
+#power p,#education p,#project p{
+    margin-bottom: 20px;
+
+}
+#power strong,#project strong,#education strong{
+    display: block;
+    margin-top:20px;
+}
